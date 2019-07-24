@@ -1,0 +1,13 @@
+body {
+	width: 900px;
+	padding-top: 10px;
+	margin: 0 auto;
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+table.simple {
+	border: 1px solid;
+	td{ height: 14px };
+	color: #006400;
+}
